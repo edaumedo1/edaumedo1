@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#F7DF1E?style=for-the-badge&logo=./images/javascript.svg&logoColor=로고색상"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-#F7DF1E?style=for-the-badge&logo=javascript&logoColor=#F7DF1E"/></a>
